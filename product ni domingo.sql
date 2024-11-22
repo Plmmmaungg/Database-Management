@@ -1,0 +1,1 @@
+SELECT * FROM akingproduck.item;
